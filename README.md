@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Tom
+#### Researcher, Unity Developer, VR Enthusiast
+<a href="https://twitter.com/drtwday"><img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://linkedin.com/in/twday"><img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" /></a>
+<img src="https://img.shields.io/badge/Platform-Windows | Linux-lightgrey" /> <img src="https://img.shields.io/badge/Code-VSCode-informational" /> <img src="https://img.shields.io/badge/Tech-VR | AR-success" />
 
 <!--
 **twday/twday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
