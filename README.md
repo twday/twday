@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Tom
-#### Researcher, Unity Developer, VR Enthusiast
+#### Generalist Coder, Unity Developer, VR Enthusiast
 <a href="https://twitter.com/drtwday"><img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://linkedin.com/in/twday"><img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" /></a>
 
