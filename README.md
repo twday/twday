@@ -1,9 +1,12 @@
+
 ### Hi there 👋 I'm Tom
-#### Experienced Generalist Coder @ <a href="https://rezzil.com">REZZIL</a>
-##### Unity Developer, VR Enthusiast
+
+#### Head of Innovation @ <a href="https://rezzil.com">REZZIL</a>
+
+##### Principal Software Engineer, VR Enthusiast
+
 <a href="https://twitter.com/drtwday"><img height="16" width="16" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/square-twitter.svg" /></a>
 <a href="https://linkedin.com/in/twday"><img height="16" width="16" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linkedin.svg" /></a>
-
 <img src="https://img.shields.io/badge/Platform-Windows | Linux-lightgrey" /> <img src="https://img.shields.io/badge/Code-VSCode-informational" /> <img src="https://img.shields.io/badge/Tech-VR | AR-success" />
 
 <!--
